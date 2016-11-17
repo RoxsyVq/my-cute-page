@@ -70,10 +70,8 @@ position: absolute;
 }
 footer{
 margin: 40px 10px;
-  background:#ccc url(../images/tile1.png) ;
-  background-size: 100%;
-
-  padding: 50px 0px;
+  background:url(../images/tile2.png) ;
+height: 400px;
 
 }
 footer .redes{
@@ -86,6 +84,6 @@ footer h2{
   padding: 20px 0px;
 }
 footer .mas {
-  margin-right: 1px;
+  margin-left: 40px;
 
 }
