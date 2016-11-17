@@ -69,9 +69,10 @@ position: absolute;
   text-align: center;
 }
 footer{
-margin: 40px 10px;
+margin: 30px 1px 1px 20px;
   background:url(../images/tile2.png) ;
-height: 400px;
+height: 300px;
+padding: 20px 1px;
 
 }
 footer .redes{
